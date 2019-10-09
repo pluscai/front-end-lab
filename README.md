@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # front-end-lab
 前端实验室
 
@@ -16,4 +16,4 @@
 =======
 # font-end-lab
 前端实验室
->>>>>>> 1fa642c... Initial commit
+
