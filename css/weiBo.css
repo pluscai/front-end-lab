@@ -1,0 +1,101 @@
+/*reset*/
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font: 12px/1.5 "Arial", "sans-serif", "微软雅黑", "宋体", "Tahoma"
+}
+
+.demo1 {
+    width: 600px;
+    position: relative;
+    overflow: hidden;
+}
+
+.demo1 .left {
+    width: 100px;
+    float: left;
+}
+
+.demo1 .left img {
+    margin-left: 20px;
+}
+
+.demo1 .right {
+    width: 458px;
+    float: right;
+    padding: 20px;
+    background-color: #EEF7FF;
+    border: 1px solid #ccc;
+}
+
+.demo1 .right p {
+    font-size: 12px;
+    line-height: 25px;
+}
+
+.demo1 .right span {
+    position: absolute;
+    right: 20px;
+    font-size: 12px;
+    top: 10px;
+}
+
+.demo2 {
+    width: 600px;
+    position: relative;
+    overflow: hidden;
+}
+
+.demo2 img {
+    float: left;
+    margin-left: 20px;
+}
+
+.demo2 .right {
+    width: 458px;
+    float: right;
+    padding: 20px;
+    background-color: #EEF7FF;
+    border: 1px solid #ccc;
+}
+
+.demo2 .right p {
+    font-size: 12px;
+    line-height: 25px;
+}
+
+.demo2 .right span {
+    position: absolute;
+    right: 20px;
+    font-size: 12px;
+    top: 10px;
+}
+
+.demo3 {
+    width: 458px;
+    padding: 20px;
+    background-color: #EEF7FF;
+    border: 1px solid #ccc;
+    margin-left: 100px;
+    position: relative;
+}
+
+.demo3 img {
+    float: left;
+    margin-left: -100px;
+    margin-top: -20px;
+}
+
+.demo3 p {
+    font-size: 12px;
+    line-height: 25px;
+}
+
+.demo3 span {
+    position: absolute;
+    right: 20px;
+    font-size: 12px;
+    top: 10px;
+}
+
