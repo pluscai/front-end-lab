@@ -1,12 +1,13 @@
 # 一、什么是结构与表现分离？
-Html、CSS、Javascript分别代表了结构、写代码时，我们强调表现和行为，结构、表现、行为三者分离原则，什么才是真正的分离呢思想呢？
+> Html、CSS、Javascript分别代表了结构、写代码时，我们强调表现和行为，结构、表现、行为三者分离原则，什么才是真正的分离呢思想呢？
+
 ![图片](https://uploader.shimo.im/f/kif4VHn8OzYG3GVI.png!thumbnail)
 
 如果把网页制作比作建造一座房子，html就是房子的结构、CSS就是后期的装修；所以在编写网页时，我们应该先从结构出发，做到html结构的合理简洁，在这种结构之上再进行CSS的设置，这样才能做到真正的表现与结构分离。
 ![图片](https://uploader.shimo.im/f/Pp5hdsKeu0MYb3oO.png!thumbnail)
 
 那么当我们拿到一张效果图，应该怎么分析html结构和CSS样式呢。原则就是：
-先不要过多的被样式打扰，重点放在HTML结构和语义化上
+> 先不要过多的被样式打扰，重点放在HTML结构和语义化上
 ![图片](https://uploader.shimo.im/f/H1hbjkTbPqM0NFLf.png!thumbnail)
 # 二、根据案例体会结构与表现分离思想
  微博用户发言信息列表的制作
