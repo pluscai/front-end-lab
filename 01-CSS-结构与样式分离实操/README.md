@@ -52,7 +52,9 @@
 [https://jsfiddle.net/caishuxiang/ng8oe4k2/](https://jsfiddle.net/caishuxiang/ng8oe4k2/)
 # 三、编程实操
 ![图片](https://uploader.shimo.im/f/kt7a7xqVKBQ97eVO.png!thumbnail)
-用下面的代码进行修改
+
+用下面的代码进行修改，在线挑战地址：https://jsfiddle.net/caishuxiang/b846uy2c/
+
 ```
 <style type="text/css">
 body{ margin:0;}
@@ -62,9 +64,11 @@ img{background:url(http://img.mukewang.com/5385ac820001905201440133.jpg)}
 </head>
 <body>
 <div>
-<img src="http://img.mukewang.com/5385acb000013b0d00950095.jpg" />         <img src="http://img.mukewang.com/5385acb000013b0d00950095.jpg" />
-<img src="http://img.mukewang.com/5385acb000013b0d00950095.jpg" />
-<img src="http://img.mukewang.com/5385acb000013b0d00950095.jpg" /> </div>
+  <img src="http://img.mukewang.com/5385acb000013b0d00950095.jpg" />         
+  <img src="http://img.mukewang.com/5385acb000013b0d00950095.jpg" />
+  <img src="http://img.mukewang.com/5385acb000013b0d00950095.jpg" />
+  <img src="http://img.mukewang.com/5385acb000013b0d00950095.jpg" /> 
+</div>
 </body>
 </html>
 ```
