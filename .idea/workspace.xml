@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d13b0b-827f-484f-8497-b44e1b15f299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02-吃透CSS选择器-妈妈再也不担心我选不中元素啦/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-吃透CSS选择器-妈妈再也不担心我选不中元素啦/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/02-吃透CSS选择器-妈妈再也不担心我选不中元素啦/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/02-吃透CSS选择器-妈妈再也不担心我选不中元素啦/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="336">
-                <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <first_editor relative-caret-position="63">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -68,11 +68,6 @@
               <item name="front-end-lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="front-end-lab" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="front-end-lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="front-end-lab" type="462c0819:PsiDirectoryNode" />
-              <item name="02-吃透CSS选择器-妈妈再也不担心我选不中元素啦" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -81,6 +76,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/02-吃透CSS选择器-妈妈再也不担心我选不中元素啦" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -113,23 +109,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570764432120</updated>
-      <workItem from="1570764433820" duration="977000" />
+      <workItem from="1570764433820" duration="1417000" />
     </task>
+    <task id="LOCAL-00001" summary="css选择器">
+      <created>1570765553473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570765553473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="977000" />
+    <option name="totallyTimeSpent" value="1417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10484721" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18809272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.489154" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -146,12 +150,42 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="css选择器" />
+    <option name="LAST_COMMIT_MESSAGE" value="css选择器" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/02-吃透CSS选择器-妈妈再也不担心我选不中元素啦/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="336">
-            <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <first_editor relative-caret-position="63">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>

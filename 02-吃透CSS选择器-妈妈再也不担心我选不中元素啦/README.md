@@ -1,4 +1,7 @@
-## 选择器都用一遍
+## 下面42个选择器写demo
+
+参照：https://en.wikipedia.org/wiki/Cascading_Style_Sheets
+
 | Pattern                 | Matches                                                      | First defined in CSS level |
 | :---------------------- | :----------------------------------------------------------- | :------------------------: |
 | `E`                     | an element of type E                                         |             1              |
