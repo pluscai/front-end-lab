@@ -2,6 +2,8 @@
 
 参照：https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 
+例子可参照：https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors 这里头可谓有图有真相，一看便懂，当然还要动手试下哈
+
 | Pattern                 | Matches                                                      | First defined in CSS level |
 | :---------------------- | :----------------------------------------------------------- | :------------------------: |
 | `E`                     | an element of type E                                         |             1              |
